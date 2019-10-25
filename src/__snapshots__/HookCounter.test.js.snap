@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<HookCounter/> matches snapshot 1`] = `
+<Counter>
+  <div>
+    <h2>
+      0
+    </h2>
+    <input
+      onChange={[Function]}
+      type="text"
+      value={0}
+    />
+    <button
+      onClick={[Function]}
+    >
+      +1
+    </button>
+    <button
+      onClick={[Function]}
+    >
+      -1
+    </button>
+  </div>
+</Counter>
+`;
